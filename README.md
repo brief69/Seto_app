@@ -1,11 +1,16 @@
 # seto
 
+## Overview
+
 
 ## Features
 - live(reels)
 - likes
 - comments
-- 
+- consensus build bill
+- profile
+- history
+- consensus building
 
 ## Stack
 - flutter(dart)
@@ -19,3 +24,4 @@
 - NGINX + RTMP Module
 
 ## Started
+
